@@ -1,4 +1,14 @@
 ## Simulador de Algoritmos de Planificación de Procesos (CPU Scheduling)
+
+> [!NOTE]
+> **Equpipo de trabajo:**
+> 
+> Ricardo Espinosa
+> 
+> Juan Diego Guerrero
+> 
+> Emilio Peña
+
 Este proyecto académico desarrolla una simulación funcional de los algoritmos de planificación de procesos fundamentales en Sistemas Operativos. El objetivo principal es visualizar el comportamiento de la CPU y calcular métricas de rendimiento (Tiempo de Espera y Tiempo de Retorno) bajo distintas cargas de trabajo.
 
 ### Características Principales:
