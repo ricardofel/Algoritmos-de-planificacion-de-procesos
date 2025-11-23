@@ -13,12 +13,12 @@ Este proyecto académico desarrolla una simulación funcional de los algoritmos 
 
 ### Características Principales:
 
-Algoritmos Implementados: First-In First-Out (FIFO), Round Robin (con Quantum ajustable) y Planificación por Prioridades.
+**Algoritmos Implementados:** First-In First-Out (FIFO), Round Robin (con Quantum ajustable) y Planificación por Prioridades.
 
-Validación de IA: Evaluación crítica y refactorización de código generado por herramientas de Inteligencia Artificial (ChatGPT/Gemini/Copilot).
+**Validación de IA:** Evaluación crítica y refactorización de código generado por herramientas de Inteligencia Artificial (ChatGPT/Gemini/Copilot).
 
-Visualización: Generación de Diagramas de Gantt para el seguimiento de procesos.
+**Visualización:** Generación de Diagramas de Gantt para el seguimiento de procesos.
 
-Métricas: Cálculo automatizado de tiempos promedio de espera y ejecución.
+**Métricas:** Cálculo automatizado de tiempos promedio de espera y ejecución.
 
-Lenguaje de programación usado: Pyhton
+**Lenguaje de programación:** Pyhton
